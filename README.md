@@ -1,4 +1,5 @@
 # Google Cloud Academy Professional Cloud Architect Learning Journey
+# COURSE: Google Cloud Fundamentals: Core Infrastructure
 
 
 

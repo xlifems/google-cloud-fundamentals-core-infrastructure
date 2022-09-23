@@ -1,7 +1,7 @@
 
-# Google Cloud Academy Professional Cloud Architect Learning Journey
+# Google Cloud Fundamentals: Core Infrastructure
 
-## Quiz
+## Quiz : Introducing Google Cloud
 
 ### 1. What cloud computing service provides raw compute, storage, and network resources that are organized similarly to physical data centers?
 

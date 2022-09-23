@@ -6,7 +6,7 @@
 ### 1. What cloud computing service provides raw compute, storage, and network resources that are organized similarly to physical data centers?
 
 - [ ] Platform as a service
-- [ ] check Infrastructure as a service
+- [x] Infrastructure as a service
 - [ ] Database as a service
 - [ ] Software as a service
 

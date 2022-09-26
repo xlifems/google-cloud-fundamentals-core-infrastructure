@@ -9,3 +9,4 @@ This section explores how resources get organized with projects, and how access 
 - [ ] [Compute Engine](https://www.youtube.com/watch?v=6mPm1Pkg4JY)
 - [ ] [Scaling virtual machines](https://www.youtube.com/watch?v=nvzvVriZco8)
 - [ ] [Important VPC compatibilities](https://www.youtube.com/watch?v=glseYa6urqo)
+- [ ] [Cloud Load Balancing](https://www.youtube.com/watch?v=sJS2I3sYdps&t=145s)

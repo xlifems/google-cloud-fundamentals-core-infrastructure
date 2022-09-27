@@ -49,7 +49,7 @@ That's correct! The per-hour price of preemptible VMs incorporates a substantial
 
 ### 6. Which statement best describes how VPC routers and firewalls work?
 
-- [ ] They are managed by Google as a built-in feature.
+- [x] They are managed by Google as a built-in feature.
 - [ ] Customers provision virtual machines and run their routers and firewalls in them.
 - [ ] They are managed by Google in virtual machines and customers cannot modify them.
 - [ ] They are managed by Google in virtual machines and customers can tune or deactivate them.

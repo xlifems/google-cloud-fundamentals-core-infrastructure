@@ -37,32 +37,28 @@
 - [ ] The global SSL proxy
 
 
-### 5. How does the resource hierarchy control how IAM policies are inherited?
+### 5. Preemptible VMs can offer advantages over a standard Compute Engine VM. What is a reason customers choose preemptible VMs?
 
-- [ ] IAM policies are only implemented at the project level; they cannot be amended by lower levels of the resource hierarchy.
-- [x] IAM policies that are implemented by lower-level policies can override the policies defined at a higher level.
-- [ ] IAM policies that are implemented higher in the resource hierarchy deny access that is granted by lower-level policies.
+- [ ] To improve performance
+- [x] To reduce cost
+- [ ] To reduce cost on premium operating systems
+- [ ] To use custom machine types
 
-
-### 6. Which way of accessing Google Cloud lets you control services through the code you write?
-
-- [x] APIs
-- [ ] The Cloud Console mobile app
-- [ ] The Cloud SDK and Cloud Shell
-- [ ] The Cloud Console
+That's correct! The per-hour price of preemptible VMs incorporates a substantial discount.
 
 
-### 7. Select the option that displays IAM roles from general to specific.
+### 6. Which statement best describes how VPC routers and firewalls work?
 
-- [ ] Predefined roles, custom roles, basic roles
-- [ ] Custom roles, predefined roles, basic roles
-- [x] Basic roles, predefined roles, custom roles
+- [ ] They are managed by Google as a built-in feature.
+- [ ] Customers provision virtual machines and run their routers and firewalls in them.
+- [ ] They are managed by Google in virtual machines and customers cannot modify them.
+- [ ] They are managed by Google in virtual machines and customers can tune or deactivate them.
 
 
-### 8. What is the difference between Identity and Access Management (IAM) basic roles and IAM predefined roles?
+### 7. Which term describes a secure, individual, private cloud-computing model hosted within a public cloud?
 
-- [ ] Basic roles only apply to the owner of the Google Cloud project. Predefined roles can be associated with any user.
-- [ ] Basic roles can only be granted to single users. Predefined roles can be associated with a group.
-- [ ] Basic roles only allow viewing, creating, and deleting resources. Predefined roles allow any modification.
-- [x] Basic roles affect all resources in a Google Cloud project. Predefined roles apply to a specific service in a project.
+- [x] Virtual private cloud (VPC)
+- [ ] Virtual private network (VPN)
+- [ ] Domain name system (DNS)
+- [ ] Content delivery network (CDN)
 

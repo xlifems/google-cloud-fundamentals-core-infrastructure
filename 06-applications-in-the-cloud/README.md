@@ -11,4 +11,4 @@ The focus of this section of the course is developing applications in the cloud.
 - [ ] [Cloud Run](https://www.youtube.com/watch?v=USn4-02vGjw)
 
 
-[Quiz](/quiz.md)
+[Quiz](quiz.md)
